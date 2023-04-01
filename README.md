@@ -4,13 +4,19 @@ This is the canonical staking contract designed for [Uniswap V3](https://github.
 
 ## Deployments
 
+v1.0.3 Deployed by Jiro
+
+| Network  | Explorer                                                               |
+| -------- | ---------------------------------------------------------------------- |
+| Arbitrum | https://arbiscan.io/address/0x206439339d40aa4ce1a57cb8cc400e67b315dd15 |
+
 v1.0.3
 
 The main change compared to v1.0.2 is the addition of a new configuration value called vestingPeriod, which defines the minimal time a staked position needs to be in range to recieve the full reward.
 
-| Network          | Explorer                                                                                 |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| Polygon          | https://polygonscan.com/address/0x8c696deF6Db3104DF72F7843730784460795659a               |
+| Network | Explorer                                                                   |
+| ------- | -------------------------------------------------------------------------- |
+| Polygon | https://polygonscan.com/address/0x8c696deF6Db3104DF72F7843730784460795659a |
 
 v1.0.2
 
